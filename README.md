@@ -44,11 +44,6 @@ Program ini berfungsi untuk menilai kekuatan S-Box dengan 6 metode cryptographic
 2) Output: output dari program ini berupa nilai dari cryptographic strength metrics
 
 
-#Fitur
-
-Program ini dapat mengubah text/file secara enkripsi (plain->cipher) maupun dekripsi (cipher->plain).
-
-
 #Cara Kerja Program
 1) Masukkan input berupa S-Box44 dapat diinput manual maupun upload file excel
 2) Pilih metode (NL/SAC/BIC-NL/BIC-SAC/LAP/DAP)
