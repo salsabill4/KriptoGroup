@@ -22,6 +22,7 @@ Program ini berfungsi untuk menilai kekuatan S-Box dengan 6 metode cryptographic
 2) Instalasi streamlit on terminal
    - pip install streamlit
    - streamlit hello
+   - pip install openpyxl
 3) Download file main.py pada github ini
 4) Buka terminal, lalu arahkan ke direktori dimana Anda menyimpan file main.py
 5) Setelah itu ketikan perintah:
