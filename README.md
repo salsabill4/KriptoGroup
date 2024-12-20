@@ -1,5 +1,12 @@
 # KRIPTO PROYEK AKHIR
 
+#Nama Anggota:
+1) AHMAD AZIZ FAUZI (4611422047)
+2) ARYA FIAN SAPUTRA (4611422065)
+3) KRISNA KUKUH WIJAYA (4611422072)
+4) SALSABILLA WACHID (4611422080)
+
+
 #Tentang Program
 
 Program ini berfungsi untuk menilai kekuatan S-Box dengan 6 metode cryptographic strength metrics yaitu:
