@@ -16,6 +16,7 @@ Program ini berfungsi untuk menilai kekuatan S-Box dengan 6 metode cryptographic
  - Framework: Streamlit
  - Code editor: VS Code
 
+#Link deploy: https://kriptogroup-cryptographic-strength-metrics.streamlit.app/
 
 #Instalasi
 1) Download python
